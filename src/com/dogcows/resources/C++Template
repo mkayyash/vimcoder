@@ -1,6 +1,7 @@
 
 // {{{ $VIMCODER$ <-----------------------------------------------------
 // vim:filetype=cpp:foldmethod=marker:foldmarker={{{,}}}
+// modified by Mohamad Ayyash (mkayyash.com)
 
 #include <algorithm>
 #include <bitset>
